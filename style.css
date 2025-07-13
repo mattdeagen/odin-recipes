@@ -30,3 +30,24 @@ li {
     font-size: 1.2rem;
     text-decoration: none;
 }
+
+.home-btn {
+    display: block;
+    width: 4rem;
+    height: 1rem;
+    background: #262c5f;
+    padding: 0.5rem;
+    text-align: center;
+    border-radius: 0.25rem;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1rem;
+    font-size: 0.8rem;
+    text-decoration: none;
+}
+
+.recipe-img {
+    border-radius: 10%;
+    display: block;
+    margin: 0 auto;
+}
